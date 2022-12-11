@@ -10,4 +10,6 @@ $ npm install
 
 ```bash
 $ npm run start
+
+# App running at: http://localhost:3000
 ```
